@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+env/
+.env
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Secrets (never commit)
+*.key
+*.pem
+*.crt
+.env.*
+!.env.example
+
+# Coverage
+htmlcov/
+.coverage
+.pytest_cache/

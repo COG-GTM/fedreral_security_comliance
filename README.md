@@ -27,7 +27,7 @@
 - **STIG** - All 18 security categories
 - **NIST 800-53** - AC, AU, IA, SC, SI control families
 - **FedRAMP** - Moderate baseline
-- **US Army CECOM SEC** - Software engineering standards
+- **Federal Software Engineering Standards** - General compliance requirements
 
 ## Key Security Controls
 
